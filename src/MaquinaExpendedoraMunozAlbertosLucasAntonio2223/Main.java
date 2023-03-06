@@ -7,6 +7,7 @@ package MaquinaExpendedoraMunozAlbertosLucasAntonio2223;
 /**
  * Programa ejemplo de analisis para la optimización de código.
  * XXX = MunozAlbertosLucasAntonio
+purer
  * @author Lucas Antonio Muñoz Albertos
  * @version 1
  */
